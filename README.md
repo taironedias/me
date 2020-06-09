@@ -1,5 +1,5 @@
 ## :octocat: me
-Personal website only html, css and js. Check by the way: [taironedias.github.io](taironedias.github.io)
+Personal website only html, css and js. Check by the way: [taironedias.github.io/me](taironedias.github.io/me)
 
 <p align="center">
 <img alt="GitHub language count" src="https://img.shields.io/badge/JQuery-v3.5.1-blue"> <a target="_blank" href="https://wakatime.com/projects/next-level-week?start=2020-05-31&end=2020-06-06"> <img alt="Development time" src="https://img.shields.io/badge/development%20time-hrs%20mins-orange" />
