@@ -6,9 +6,92 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
+        <link rel="stylesheet" type="text/css" href="css/header.css">
+        <link rel="stylesheet" type="text/css" href="css/introduction.css">
+        <link rel="stylesheet" type="text/css" href="css/about.css">
         <script src="https://kit.fontawesome.com/8e9ac2b5f6.js" crossorigin="anonymous"></script>
     </head>
     <body>
-        <h1>Hello World</h1>
+        <header class="menu-container">
+            <div class="menu">
+                <div class="menu-name">
+                    <a href="index.html">Tairone Dias</a>
+                </div>
+                <nav class="menu-nav">
+                    <ul>
+                        <li><a href="#" id="language">EN</a></li>
+                        <li><a href="#" id="mode"><i class="fas fa-lightbulb" aria-hidden="true"></i></a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        <section class="introduction">
+            <h1>Desenvolvedor Full Stack</h1>
+            <h2>Desenvolvedor Mobile</h2>
+            <p class="text-center" id="details">
+                Conhecimento: 
+                <span
+                    class="txt-rotate"
+                    data-period="1000"
+                    data-rotate='["PHP", "JavaScript", "SQL", "Node.js", "ReactJS", "React Native", "Java", "Swift", "TypeScript"]'>
+                </span>
+            </p>
+        </section>
+
+        <section class="about">
+            <div class="about-text">
+                <h1>Sobre</h1>
+                <p>
+                    Meu nome é Tairone Dias. Trabalho atualmente como Desenvolvedor Full Stack na <a href="https://conexa.app/" target="_blank" rel="noopener noreferrer">Conexa App</a>. Antes disso, fui professor substituto da área de Sistemas Elétricos e Computacionais, lencionando a disciplina Lógica de Programação nas linguages C e Python e desenvolvedor mobile Android em projetos financiados pela Fapesb. Sou fã de projetos open source, divulgando e incentivando a sua utilização, sejam de simples aplicações até sistemas operacionais (Debian <i class="fas fa-heart"></i>).</p>
+                <p>
+                    Fui o presidente fundador da Recode Jr., empresa júnior do curso de Engenharia da Computação da Universidade Federal do Recôncavo da Bahia, com o principal objetivo de oferecer experiência profissinal para os estudantes do curso.
+                </p>
+                <p>
+                    Sou católico, amo minha família, gosto muito de futebol e jogar com os amigos, seja lá qualquer que seja o jogo. Tenho um violão, mas só toco olhando pra cifra. Não curto filme de terror, mas adoro uma comédia romântica. Signo de câncer pois nasci no melhor dia/mês do ano (24/Junho).
+                </p>
+            </div>
+            <div class="about-img-container">
+                <div class="about-img">
+                    <div id="molde"></div>
+                    <img src="images/avatar.png" alt="Tairone Dias">
+                </div>
+            </div>
+        </section>
+
+        <section class="projects">
+            <h1>Projetos</h1>
+            <div class="projects-container">
+                <div class="projects-item ecoleta">
+                    <h2>Ecoleta</h2>
+                    <img src="images/ecoleta.png" alt="">
+                </div>
+                <div class="projects-item snapchat">
+                    <h2>Snapchat Fake</h2>
+                    <img src="images/snapchat.png" alt="">
+                </div>
+                <div class="projects-item be-the-hero">
+                    <h2>Be The Hero</h2>
+                    <img src="images/be_the_hero.png" alt="">
+                </div>
+                <div class="projects-item fuldi">
+                    <h2>Fuldi</h2>
+                    <img src="images/fuldi.png" alt="">
+                </div>
+            </div>
+        </section>
+
+        <footer class="footer">
+            <div class="links github">
+                <a href="https://github.com/taironedias" target="_blank">Github</a>
+            </div>
+            <div class="links linkedin">
+                <a href="https://www.linkedin.com/in/tcdias/" target="_blank">Linkedin</a>
+            </div>
+            <div class="links twitter">
+                <a href="https://twitter.com/taii_d" target="_blank">Twitter</a>
+            </div>
+        </footer>
     </body>
 </html>
