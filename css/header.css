@@ -1,5 +1,5 @@
 .menu-container {
-    background-color: #2c3540;
+    background-color: var(--color-carbon);
 }
 
 .menu {
