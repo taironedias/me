@@ -1,0 +1,61 @@
+.projects {
+    max-width: var(--width-page);
+    margin: 0 auto;
+    padding-bottom: 40px;
+}
+
+.projects h1 {
+    font-size: 3em;
+    margin: 20px 10px 60px;
+}
+
+.projects-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
+
+.projects-item {
+    flex: 1;
+    min-width: 160px; /* utilizando flex: 1 1 200px não seria necessários adicionar um min-width */
+    margin: 10px;
+}
+
+.projects-item h2 {
+    font-size: 2.25em;
+    color: #a4a4a4;
+    background-color: #f7f7f7;
+    padding: 40px 20px;
+}
+
+.projects-item img {
+    border-radius: 0 0 4px 4px;
+}
+
+.ecoleta {
+    border-top: 8px solid #34CB79;
+}
+
+.snapchat {
+    border-top: 8px solid #FFFD3D;
+}
+
+.be-the-hero {
+    border-top: 8px solid #DE2041;
+}
+
+.fuldi {
+    border-top: 8px solid #FBDFDB;
+}
+
+@media (max-width: 700px) {
+    .projects-item {
+        min-width: 200px;
+    }
+}
+
+@media (max-width: 600px) {
+    .projects-item {
+        min-width: 300px;
+    }
+}
