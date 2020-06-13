@@ -1,0 +1,49 @@
+.footer {
+    display: flex;
+    height: 100px;
+    background-color: var(--color-carbon);
+    align-items: center;
+    justify-content: center;
+}
+
+.links a {
+    color: white;
+    font-size: 1.25em;
+    text-align: center;
+}
+
+.links a span {
+    padding: 0 20px;
+}
+
+.links a:hover {
+    color: var(--color-conexa);
+    transition: color 200ms ease-in-out;
+}
+
+
+/* .links a:hover span {
+    display: none;
+}
+
+.links a:hover:before {
+    content: 'FOI';
+    color: var(--color-conexa);
+    transition: color 800ms ease-in-out;
+} */
+/* .item a p.new-label span{
+    position: relative;
+    content: 'NEW'
+  }
+  .item:hover a p.new-label span{
+    display: none;
+  }
+  .item:hover a p.new-label:after{
+    content: 'ADD';
+  } */
+
+@media (max-width: 600px) {
+    .footer {
+        height: 70px;
+    }
+}
