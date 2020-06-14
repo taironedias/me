@@ -47,7 +47,7 @@ $('#language').click(function() {
     changeTextContent();
 });
 
-$( document ).ready(function() {
+$(document).ready(function() {
     changeTextContent();
 });
 
