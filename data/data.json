@@ -1,0 +1,30 @@
+{
+    "en" : {
+        "introduction" : {
+            "h1" : "Full Stack Developer",
+            "h2" : "Mobile Developer"
+        },
+        "about" : {
+            "h1" : "About",
+            "p.first" : "My name is Tairone Dias. I currently work as a Full Stack Developer at <a href=\"https://conexa.app/\" target=\"_blank\" rel=\"noopener noreferrer\">Conexa App</a>. Before that, I worked as a substitute teacher in the area of Electrical and Computer Systems, teaching the Programming Logic discipline in C and Python languages at <a href=\"https://ufrb.edu.br/portal/\" target=\"_blank\">UFRB</a> and a scholarship holder (UFRB and Fapesb) in web and mobile (Android) projects.",
+            "p.second" : "In 2016 I was founding president of Recode Jr. (junior company in the Computer Engineering course at UFRB) with the main objective of offering professional experience to students of the course. I am a fan of open source projects, promoting and encouraging their use, from simple applications to operating systems (<i class=\"fas fa-heart\"></i> Debian)."
+        },
+        "projects" : {
+            "h1" : "Projects"
+        }
+    },
+    "pt" : {
+        "introduction" : {
+            "h1" : "Desenvolvedor Full Stack",
+            "h2" : "Desenvolvedor Mobile"
+        },
+        "about" : {
+            "h1" : "Sobre",
+            "p.first" : "Meu nome é Tairone Dias. Atualmente trabalho como Desenvolvedor Full Stack na <a href=\"https://conexa.app/\" target=\"_blank\" rel=\"noopener noreferrer\">Conexa App</a>. Antes disso, trabalhei como professor substituto da área de Sistemas Elétricos e Computacionais, lecionando a disciplina Lógica de Programação nas linguages C e Python na <a href=\"https://ufrb.edu.br/portal/\" target=\"_blank\">UFRB</a> e bolsista (UFRB e Fapesb) em projetos web e mobile (Android).",
+            "p.second" : "Em 2016 fui presidente fundador da Recode Jr. (empresa júnior do curso de Engenharia da Computação da UFRB) com o principal objetivo de oferecer experiência profissinal para os estudantes do curso. Sou fã de projetos open source, divulgando e incentivando a sua utilização, sejam de simples aplicações até sistemas operacionais (Debian <i class=\"fas fa-heart\"></i>)."
+        },
+        "projects" : {
+            "h1" : "Projetos"
+        }
+    }
+}
