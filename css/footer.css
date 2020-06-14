@@ -21,27 +21,6 @@
     transition: color 200ms ease-in-out;
 }
 
-
-/* .links a:hover span {
-    display: none;
-}
-
-.links a:hover:before {
-    content: 'FOI';
-    color: var(--color-conexa);
-    transition: color 800ms ease-in-out;
-} */
-/* .item a p.new-label span{
-    position: relative;
-    content: 'NEW'
-  }
-  .item:hover a p.new-label span{
-    display: none;
-  }
-  .item:hover a p.new-label:after{
-    content: 'ADD';
-  } */
-
 @media (max-width: 600px) {
     .footer {
         height: 70px;
