@@ -7,7 +7,7 @@
         "about" : {
             "h1" : "About",
             "p.first" : "My name is Tairone Dias. I currently work as a Full Stack Developer at <a href=\"https://conexa.app/\" target=\"_blank\" rel=\"noopener noreferrer\">Conexa App</a>. Before that, I worked as a substitute teacher in the area of Electrical and Computer Systems, teaching the Programming Logic discipline in C and Python languages at <a href=\"https://ufrb.edu.br/portal/\" target=\"_blank\">UFRB</a> and a scholarship holder (UFRB and Fapesb) in web and mobile (Android) projects.",
-            "p.second" : "In 2016 I was founding president of <a href=\"https://recodejr.com/\" target=\"_blank\">Recode Jr.</a> (junior company in the Computer Engineering course at UFRB) with the main objective of offering professional experience to students of the course. I am a fan of open source projects, promoting and encouraging their use, from simple applications to operating systems (<i class=\"fas fa-heart\"></i> Debian)."
+            "p.second" : "In 2016 I was founding president of <a href=\"https://recodejr.com/\" target=\"_blank\">Recode Jr.</a> (junior company in the Computer Engineering course at UFRB) with the main objective of offering professional experience to students of the course. I am a fan of open source projects, promoting and encouraging their use, from simple applications to operating systems (<i class=\"fas fa-heart\"></i> Debian). My store on <a target=\"_blank\" href=\"https://play.google.com/store/apps/developer?id=DiasDevelopers&hl=pt_BR\">Google Play</a>."
         },
         "projects" : {
             "h1" : "Projects"
@@ -21,7 +21,7 @@
         "about" : {
             "h1" : "Sobre",
             "p.first" : "Meu nome é Tairone Dias. Atualmente trabalho como Desenvolvedor Full Stack na <a href=\"https://conexa.app/\" target=\"_blank\" rel=\"noopener noreferrer\">Conexa App</a>. Antes disso, trabalhei como professor substituto da área de Sistemas Elétricos e Computacionais, lecionando a disciplina Lógica de Programação nas linguages C e Python na <a href=\"https://ufrb.edu.br/portal/\" target=\"_blank\">UFRB</a> e bolsista (UFRB e Fapesb) em projetos web e mobile (Android).",
-            "p.second" : "Em 2016 fui presidente fundador da <a href=\"https://recodejr.com/\" target=\"_blank\">Recode Jr.</a> (empresa júnior do curso de Engenharia da Computação da UFRB) com o principal objetivo de oferecer experiência profissinal para os estudantes do curso. Sou fã de projetos open source, divulgando e incentivando a sua utilização, sejam de simples aplicações até sistemas operacionais (Debian <i class=\"fas fa-heart\"></i>)."
+            "p.second" : "Em 2016 fui presidente fundador da <a href=\"https://recodejr.com/\" target=\"_blank\">Recode Jr.</a> (empresa júnior do curso de Engenharia da Computação da UFRB) com o principal objetivo de oferecer experiência profissinal para os estudantes do curso. Sou fã de projetos open source, divulgando e incentivando a sua utilização, sejam de simples aplicações até sistemas operacionais (Debian <i class=\"fas fa-heart\"></i>). Minha loja na <a target=\"_blank\" href=\"https://play.google.com/store/apps/developer?id=DiasDevelopers&hl=pt_BR\">Google Play</a>."
         },
         "projects" : {
             "h1" : "Projetos"
